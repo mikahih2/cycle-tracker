@@ -1,0 +1,16 @@
+{
+  "name": "Cycle — Period Tracker",
+  "short_name": "Cycle",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fdf0f2",
+  "theme_color": "#f5c2c7",
+  "description": "Simple, beautiful period tracking.",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
